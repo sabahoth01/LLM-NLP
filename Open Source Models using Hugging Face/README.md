@@ -26,11 +26,11 @@ In this project, I did select open source models from Hugging Face Hub to perfor
 
 8. Share your AI app using Gradio and Hugging Face Spaces to run your applications in a user-friendly interface on the cloud or as an API.
 
-# Roadmap
+# Roadmap - exercises
 
 1. Chatbot basics using Facebook BlenderBox model from Hugging face
 2. Translation and summarization
-3. 
+3. Sentence similarity
 
 # Outcome
 
