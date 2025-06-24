@@ -29,8 +29,8 @@ In this project, I did select open source models from Hugging Face Hub to perfor
 # Roadmap - exercises
 
 1. Chatbot basics using Facebook BlenderBox model from Hugging face
-2. Translation and summarization
-3. Sentence similarity
+2. Translation and summarization using Facebook nnlb and bart-large-cnn models
+3. Sentence similarity using all-MiniLM-L6-v2 model
 
 # Outcome
 
