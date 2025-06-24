@@ -6,6 +6,7 @@ In this project, I did select open source models from Hugging Face Hub to perfor
 
 - Provider: Coursera- DeepLearning.AI
 - Language: English
+- Instructors: Younes Belkada, Marc Sun, Maria Khalusova
 
 # Tasks
 
