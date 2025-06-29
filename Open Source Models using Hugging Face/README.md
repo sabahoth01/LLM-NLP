@@ -26,13 +26,6 @@ In this project, I did select open source models from Hugging Face Hub to perfor
 
 8. Share your AI app using Gradio and Hugging Face Spaces to run your applications in a user-friendly interface on the cloud or as an API.
 
-# Roadmap - exercises
-
-1. Chatbot basics using Facebook BlenderBox model from Hugging face
-2. Translation and summarization using Facebook nnlb and bart-large-cnn models
-3. Sentence similarity using all-MiniLM-L6-v2 model
-4. Speech to text using librispeech_asr and distill/whisper. compared both of them!
-
 # Outcome / Final project
 
 [The link to the app]()
